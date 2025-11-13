@@ -1,0 +1,5 @@
+**Alta Disponibilidade**
+  A capacidade das suas aplicações se materem resilientes, ou seja ficar disponivel mesmo que ocorra insidentes, uma Região tem mais de uma zona de disponibilidade para atender a resiliência.
+
+**Elasticidade**
+  A capacidade de subir recurso ou reduzir em curto período de tempo com base na necéssidade e solicitação que seu serviço tenha.
