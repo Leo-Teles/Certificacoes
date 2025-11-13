@@ -1,23 +1,15 @@
-**Privada**:
-  - As organizações criam um
-ambiente em nuvem em seu
-datacenter.
-  • A organização é responsável por
-operar e gerenciar os serviços que fornece.
-- A organização realiza todo o gerenciamente de hardware.
-  • Não fornece acesso aos usuários
-fora da organização.
+**Nuvem Pública**
+ - Nenhuma despesa de capital para escalar verticalmente;
+ - Os aplicativos podem ser provisionados e desprovisionados rapidamente;
+ - As organizações pagam apenas pelo que utilizam;
+ - Provedora realiza o gerenciamento e segurança do hardware.
 
-**Pública**: 
+**Nuvem Privada**
+ - O hardware para instalação,matutenção e atualização fica por parte da organização;
+ - As organizações tem controle total sobre os recursos e segurança;
+ - As organizações criam umambiente em nuvem em seu datacenter.
 
--Pertencente a serviços de nuvem
-ou provedor de hosting.
-• Fornece recursos e serviços a
-várias organizações e usuários.
-- A provedora realiza todo o gerenciamente de hardware
-• Acessada via conexão de rede
-segura (geralmente pela Internet).
-
-**Híbrida:**
-- Combina as nuvens pública e privada para permitir que os
-aplicativos sejam executados no local mais apropriado.
+**Nuvem Híbrida**
+ - Fornece maior flexibilidade;
+ - As organizações determinam onde executar suas aplicações;
+ - As organizações controlam a segurança, a conformidade e os requesitos legais pelo seu lado do sistema. 
