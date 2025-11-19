@@ -18,10 +18,12 @@
 
   De da uma previsão de gastos com base na sua arquitetura atual, para controlar seus gastos, ou previsão de desempenho e performace da sua arquitetura.
 
-**Segurança:**
+**SEGURANÇA:**
+
   Sua aplicação rodar de forma segura com servços e pelos padrões de Compliance.
 
 **Governança:**
+
   Capacidade de gerir recursos, informações, dados, acessos e etc.
 
 **Gerenciabilidade:**
