@@ -10,6 +10,6 @@
  - As organizações criam umambiente em nuvem em seu datacenter.
 
 **Nuvem Híbrida**
- - Fornece maior flexibilidade;
  - As organizações determinam onde executar suas aplicações;
  - As organizações controlam a segurança, a conformidade e os requesitos legais pelo seu lado do sistema. 
+ - Fornece maior flexibilidade;
